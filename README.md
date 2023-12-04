@@ -2,8 +2,7 @@
 <html> 
 
 <head> 
-
-<font face="Fantasy" color="red" size"4"> 
+ 
 
 <center><h1><b><i><u>WSA EVENTS</u></i></b></h1></center> 
 
@@ -11,7 +10,7 @@
 
 </head> 
 
-<title>WSA EVENTS</title> 
+
 
 <body bgcolor="#D3D3D3" Text="Black"> 
 
